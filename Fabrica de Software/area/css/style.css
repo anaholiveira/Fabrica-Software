@@ -16,7 +16,7 @@
 
 .telafundo {
     width: 37vw;
-    height: 49vh;
+    height: auto;
     display: flex;
     flex-direction: column;
     gap: 30px;
